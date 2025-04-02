@@ -1,1 +1,9 @@
+### Node ###
 node_modules
+
+### Build ###
+dist
+
+### PNPM ###
+pnpm-lock.yaml
+pnpm-workspace.yaml
